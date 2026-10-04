@@ -16,6 +16,7 @@ Goal - 150+ Question
 | [0061-rotate-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0876-middle-of-the-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Goal - 150+ Question
 | [0019-remove-nth-node-from-end-of-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0876-middle-of-the-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,4 +50,8 @@ Goal - 150+ Question
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
