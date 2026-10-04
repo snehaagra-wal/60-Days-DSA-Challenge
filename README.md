@@ -17,6 +17,7 @@ Goal - 150+ Question
 | [0237-delete-node-in-a-linked-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0141-linked-list-cycle](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Goal - 150+ Question
 | [0061-rotate-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0141-linked-list-cycle](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +56,9 @@ Goal - 150+ Question
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0141-linked-list-cycle](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
