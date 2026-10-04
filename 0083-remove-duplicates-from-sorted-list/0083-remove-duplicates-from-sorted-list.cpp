@@ -21,9 +21,9 @@ public:
             }
             a->next=b;
             a=b;
-            if(b!=NULL){
+            if(b!=NULL)
                 b=b->next;
-            }
+            
         }
         return head;
 
