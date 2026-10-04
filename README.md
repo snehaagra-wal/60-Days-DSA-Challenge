@@ -19,6 +19,7 @@ Goal - 150+ Question
 | [0160-intersection-of-two-linked-lists](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0141-linked-list-cycle](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
