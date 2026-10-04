@@ -14,6 +14,7 @@ Goal - 150+ Question
 | [0023-merge-k-sorted-lists](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0061-rotate-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
