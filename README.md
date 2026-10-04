@@ -20,6 +20,7 @@ Goal - 150+ Question
 | [0141-linked-list-cycle](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2326-spiral-matrix-iv](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/2326-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +67,16 @@ Goal - 150+ Question
 | ------- |
 | [0141-linked-list-cycle](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/2326-spiral-matrix-iv) |
+## Matrix
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/2326-spiral-matrix-iv) |
+## Simulation
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
