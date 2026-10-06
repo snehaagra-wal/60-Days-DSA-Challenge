@@ -79,4 +79,20 @@ Goal - 150+ Question
 |  |
 | ------- |
 | [2326-spiral-matrix-iv](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/2326-spiral-matrix-iv) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/snehaagra-wal/60-Days-DSA-Challenge/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
